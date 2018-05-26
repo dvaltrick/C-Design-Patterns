@@ -1,0 +1,9 @@
+C:\Users\Diego\Documents\Code\C#\Course\SOLID Design Patterns\PrototypeExcericise\PrototypeExcericise\bin\Debug\netcoreapp1.1\PrototypeExcericise.deps.json
+C:\Users\Diego\Documents\Code\C#\Course\SOLID Design Patterns\PrototypeExcericise\PrototypeExcericise\bin\Debug\netcoreapp1.1\PrototypeExcericise.runtimeconfig.json
+C:\Users\Diego\Documents\Code\C#\Course\SOLID Design Patterns\PrototypeExcericise\PrototypeExcericise\bin\Debug\netcoreapp1.1\PrototypeExcericise.runtimeconfig.dev.json
+C:\Users\Diego\Documents\Code\C#\Course\SOLID Design Patterns\PrototypeExcericise\PrototypeExcericise\bin\Debug\netcoreapp1.1\PrototypeExcericise.dll
+C:\Users\Diego\Documents\Code\C#\Course\SOLID Design Patterns\PrototypeExcericise\PrototypeExcericise\bin\Debug\netcoreapp1.1\PrototypeExcericise.pdb
+C:\Users\Diego\Documents\Code\C#\Course\SOLID Design Patterns\PrototypeExcericise\PrototypeExcericise\obj\Debug\netcoreapp1.1\PrototypeExcericise.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Documents\Code\C#\Course\SOLID Design Patterns\PrototypeExcericise\PrototypeExcericise\obj\Debug\netcoreapp1.1\PrototypeExcericise.AssemblyInfo.cs
+C:\Users\Diego\Documents\Code\C#\Course\SOLID Design Patterns\PrototypeExcericise\PrototypeExcericise\obj\Debug\netcoreapp1.1\PrototypeExcericise.dll
+C:\Users\Diego\Documents\Code\C#\Course\SOLID Design Patterns\PrototypeExcericise\PrototypeExcericise\obj\Debug\netcoreapp1.1\PrototypeExcericise.pdb

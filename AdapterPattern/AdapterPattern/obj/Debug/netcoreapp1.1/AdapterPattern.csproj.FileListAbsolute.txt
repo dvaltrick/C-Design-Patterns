@@ -1,0 +1,9 @@
+C:\Users\Diego\Documents\Code\C#\Course\SOLID Design Patterns\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp1.1\AdapterPattern.deps.json
+C:\Users\Diego\Documents\Code\C#\Course\SOLID Design Patterns\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp1.1\AdapterPattern.runtimeconfig.json
+C:\Users\Diego\Documents\Code\C#\Course\SOLID Design Patterns\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp1.1\AdapterPattern.runtimeconfig.dev.json
+C:\Users\Diego\Documents\Code\C#\Course\SOLID Design Patterns\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp1.1\AdapterPattern.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Documents\Code\C#\Course\SOLID Design Patterns\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp1.1\AdapterPattern.AssemblyInfo.cs
+C:\Users\Diego\Documents\Code\C#\Course\SOLID Design Patterns\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp1.1\AdapterPattern.dll
+C:\Users\Diego\Documents\Code\C#\Course\SOLID Design Patterns\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp1.1\AdapterPattern.pdb
+C:\Users\Diego\Documents\Code\C#\Course\SOLID Design Patterns\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp1.1\AdapterPattern.dll
+C:\Users\Diego\Documents\Code\C#\Course\SOLID Design Patterns\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp1.1\AdapterPattern.pdb

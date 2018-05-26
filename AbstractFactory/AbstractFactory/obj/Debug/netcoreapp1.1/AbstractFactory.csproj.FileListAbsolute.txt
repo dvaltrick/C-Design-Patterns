@@ -1,0 +1,9 @@
+C:\Users\Diego\Documents\Code\C#\Course\SOLID Design Patterns\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp1.1\AbstractFactory.deps.json
+C:\Users\Diego\Documents\Code\C#\Course\SOLID Design Patterns\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp1.1\AbstractFactory.runtimeconfig.json
+C:\Users\Diego\Documents\Code\C#\Course\SOLID Design Patterns\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp1.1\AbstractFactory.runtimeconfig.dev.json
+C:\Users\Diego\Documents\Code\C#\Course\SOLID Design Patterns\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp1.1\AbstractFactory.dll
+C:\Users\Diego\Documents\Code\C#\Course\SOLID Design Patterns\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp1.1\AbstractFactory.pdb
+C:\Users\Diego\Documents\Code\C#\Course\SOLID Design Patterns\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp1.1\AbstractFactory.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Documents\Code\C#\Course\SOLID Design Patterns\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp1.1\AbstractFactory.AssemblyInfo.cs
+C:\Users\Diego\Documents\Code\C#\Course\SOLID Design Patterns\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp1.1\AbstractFactory.dll
+C:\Users\Diego\Documents\Code\C#\Course\SOLID Design Patterns\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp1.1\AbstractFactory.pdb
